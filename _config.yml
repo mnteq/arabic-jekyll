@@ -3,10 +3,10 @@
 #
 
 # اسم المدونة الذي سيظهر في الأعلى
-name: اسم المدونة
+name: عينة Jekyll Now
 
 # وصف قصير للمدونة والذي سيظهر تحت اسمها وكجزء من عنوان المدونة في محركات البحث
-description: مدونة جديدة
+description: عينة التصميم
 
 # رابط صورة المدونة
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
@@ -25,12 +25,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: a3ammar/jekyll-now
+  github: a3ammar/arabic-jekyll
   instagram:
   linkedin:
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: jekyllrb
+  twitter: a3ammar
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
   youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
@@ -48,7 +48,7 @@ google_analytics:
 url:
 
 # إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: ""
+baseurl: "/arabic-jekyll"
 
 
 #
