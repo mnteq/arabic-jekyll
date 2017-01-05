@@ -1,0 +1,15 @@
+#cheatsheet {
+  .highlight {
+    direction: rtl;
+  }
+
+  .language-ruby .highlight {
+    direction: ltr;
+  }
+
+  .language-ruby + .highlighter-rouge .highlight {
+    direction: ltr;
+
+    code { unicode-bidi: embed; }
+  }
+}
