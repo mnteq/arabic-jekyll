@@ -193,6 +193,7 @@ blockquote {
 
 .site-info {
   float: right;
+  text-align: center;
 
   @include mobile {
     float: none;
@@ -205,8 +206,9 @@ blockquote {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-weight: normal;
-  font-size: 28px;
+  font-weight: bold;
+  font-size: 50px;
+  letter-spacing: -2px;
 }
 
 .site-description {
@@ -221,12 +223,13 @@ blockquote {
 
 nav {
   float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 77px; // @TODO: Vertically middle align
   font-size: 18px;
+  letter-spacing: -1px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 20px;
     display: block;
     font-size: 16px;
   }
@@ -239,7 +242,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
