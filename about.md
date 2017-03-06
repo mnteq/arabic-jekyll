@@ -15,4 +15,4 @@ permalink: /about/
 
 للتعليق يمكنك التواصل معي عبر [تويتر](http://twitter.com/mnteq)، أو إن لم تكن المائة والأربعين حرف كافية يمكنك إرسال رسالة إلكترونية على هذا البريد [feedback@mnteq.com](mailto:feedback@mnteq.com).
 
-يمكنك تحميل مصدر هذه المدونة من [Github](https://github.com/mnteq/mnteq).
+يمكنك تحميل مصدر هذه المدونة من [Github](https://github.com/mnteq/mnteq.github.io).
